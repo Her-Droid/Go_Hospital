@@ -1,7 +1,5 @@
 # Go Hospital
 
-[![Fork](https://img.shields.io/github/forks/abuazis/Go-Hospital-App?style=social)](https://github.com/abuazis/Go-Hospital-App/fork)&nbsp; [![Star](https://img.shields.io/github/stars/abuazis/Go-Hospital-App?style=social)](https://github.com/abuazis/Go-Hospital-App/star)&nbsp; [![Watches](https://img.shields.io/github/watchers/abuazis/Go-Hospital-App?style=social)](https://github.com/abuazis/Go-Hospital-App/)&nbsp;
-
 > Kami Siap Melayani Kesehatan Anda
 
 ## Description
