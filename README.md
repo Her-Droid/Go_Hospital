@@ -14,9 +14,12 @@ Go Hospital adalah aplikasi yang digunakan oleh pengguna untuk melakukan booking
 
 - Pilih Dokter - Menampilkan list dokter yang tersedia dari berbagai macam spesialis keahliannya
 - Lihat Berita - Menampilkan artikel seputar kesehatan yang bermanfaat sebagai pengetahuan dan informasi untuk pengguna
+- Video Player Promotion - Menampilkan Video promosi atau video kegiatan rumah sakit
+- Layanan Tes Covid - Menyajikan layanan tes covid yang tersedia pada rumah sakit kami.
 - Cek Layanan - Menyajikan layanan yang tersedia pada rumah sakit kami serta terdapat fitur pencarian secara realtime
 - Event Promo - Menyajikan banyak event promo yang bisa diikuti pengguna agar merasakan manfaat yang cukup tentang kesehatan
 - Booking Dokter - Membuat janji pertemuan dengan dokter dengan lebih praktis tanpa lelah untuk mengantri di lobi rumah sakit
+- Fitur Pembayaran - Pilihan pembayaran yang terdiri dari asuransi, perusahaan dan tanggung pribadi.
 - Lowongan - Fitur kecil dengan menampilkan lowongan seputar kesehatan yang berguna bagi pencari kerja
 
 ## Techstack
@@ -41,8 +44,8 @@ Go Hospital adalah aplikasi yang digunakan oleh pengguna untuk melakukan booking
 
 ## Credit
 
-Abu Azis – [@abuzaio](https://instagram.com/abuzaio) – abuaziscorp@gmail.com
+Russi Hersiano – [@ruhc_38](https://instagram.com/ruhc_38) – russihersiano38@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[https://github.com/abuazis](https://github.com/abuazis/)
+[https://github.com/Her-Droid](https://github.com/abuazis/)
