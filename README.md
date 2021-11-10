@@ -8,7 +8,7 @@
 
 Go Hospital adalah aplikasi yang digunakan oleh pengguna untuk melakukan booking dengan dokter agar bisa membuat janji pertemuan untuk medical check-up, konsultasi dan kontrol rutin. Pada aplikasi ini terdapat banyak fitur agar pengguna tidak bosan dengan menyediakan berbagai macam fitur lainnya. Aplikasi ini dibuat dengan framework flutter dan backend service menggunakan firebase.
 
-<p><img  src="https://ibb.co/S75cbwt"/></p>
+<p><img src="https://i.ibb.co/Nntr529/Go-Hospital.png"/></p>
 
 ## Main Features
 
