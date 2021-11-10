@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94656401271",
+    "firebase_url": "https://go-hospital-by-columbia-asia-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "go-hospital-by-columbia-asia",
+    "storage_bucket": "go-hospital-by-columbia-asia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94656401271:android:6466ff0608f93823f19b72",
+        "android_client_info": {
+          "package_name": "id.herdroid.gohospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94656401271-7u2i5rd9grejgt304tfki4t12k97ikkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7jY92V_d1o_5uJlFI_5zOMV-nCGsq80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94656401271-7u2i5rd9grejgt304tfki4t12k97ikkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
